@@ -1,0 +1,22 @@
+{
+  "name": "partybulb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stuartflgray/partybulb.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stuartflgray/partybulb/issues"
+  },
+  "homepage": "https://github.com/stuartflgray/partybulb#readme",
+  "dependencies": {
+    "tplink-smarthome-api": "^0.23.0"
+  }
+}
